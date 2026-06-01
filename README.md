@@ -1,4 +1,4 @@
-# OptiLL
+# OptiFlex
 ASI plugin to add Reflex markers to games that lack them. Designed for use with OptiScaler to translate Reflex to AL2/XeLL 
 
 This needs a per-game implementation by finding input polling and simulation thread logic in a compiled binary, and then using those to implement Reflex. This is exactly how Anti-Lag+ functioned.
